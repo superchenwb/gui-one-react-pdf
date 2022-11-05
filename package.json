@@ -1,6 +1,6 @@
 {
   "name": "gui-one-react-pdf",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "scripts": {
     "start": "dumi dev",
     "docs:build": "dumi build",
@@ -29,7 +29,6 @@
     ]
   },
   "dependencies": {
-    "react": "^18.0.0",
     "react-pdf": "^5.7.2"
   },
   "devDependencies": {
@@ -40,6 +39,7 @@
     "@types/react-pdf": "^5.7.2",
     "@umijs/fabric": "^2.8.1",
     "@umijs/test": "^3.0.5",
+    "react": "^17.0.2",
     "antd": "^4.23.6",
     "classnames": "^2.3.2",
     "dumi": "^1.1.0",
