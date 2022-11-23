@@ -12,7 +12,7 @@ import {
 import cls from 'classnames'
 import './index.less'
 
-pdfjs.GlobalWorkerOptions.workerSrc = `./pdfJs/2.12.313/pdf.worker.js`
+pdfjs.GlobalWorkerOptions.workerSrc = `./pdfjs/2.12.313/pdf.worker.js`
 
 const initialState = {
   pageNumber: 1,
